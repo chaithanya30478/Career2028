@@ -1,0 +1,6 @@
+x=18
+y=28
+temp=x
+x=y
+y=temp
+print("After swapping: x =",x,"y =",y)
