@@ -1,0 +1,11 @@
+name=input("Enter your name: ")
+maths=input("Enter your marks in Maths: ")
+english=input("Enter your marks in English: ")
+physics=input("Enter your marks in Physics: ")
+maths=int(maths)
+english=int(english)
+physics=int(physics)
+total=maths+english+physics
+average=total/3
+print("Total marks:", total)
+print("Average marks:", average)
