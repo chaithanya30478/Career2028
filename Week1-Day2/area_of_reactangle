@@ -1,0 +1,4 @@
+length=15
+breadth=29
+area=length*breadth
+print("Area of rectangle is: ",area)
