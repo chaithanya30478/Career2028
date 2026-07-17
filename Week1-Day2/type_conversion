@@ -1,0 +1,5 @@
+name="Chaithanya"
+age=20
+height=152
+height_in_meters=height/100
+print(height_in_meters)
